@@ -1,4 +1,9 @@
 # E4link Sample Project
+This is a university project I am currently working on, for my thesis. I am using the Empatica E4 wearable device. Using the EDA sensor on the device I aim to detect stress in individuals while they are using various social networking platforms. This is currently wip. 
+
+The following instructions are from Empatica (Bluetooth connectivity wise) : 
+
+
 
 ## Introduction
 
